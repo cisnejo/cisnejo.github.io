@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.js": "/cisnejo.github.io/static/js/main.afe27807.js",
-    "static/js/787.f922da90.chunk.js": "/cisnejo.github.io/static/js/787.f922da90.chunk.js",
-    "static/media/schedule.png": "/cisnejo.github.io/static/media/schedule.fe63ed11286fbaa07962.png",
-    "static/media/esteem.png": "/cisnejo.github.io/static/media/esteem.9d829d0e06cb235d4710.png",
-    "index.html": "/cisnejo.github.io/index.html",
-    "main.afe27807.js.map": "/cisnejo.github.io/static/js/main.afe27807.js.map",
-    "787.f922da90.chunk.js.map": "/cisnejo.github.io/static/js/787.f922da90.chunk.js.map"
+    "main.js": "/static/js/main.ab0b0c7b.js",
+    "static/js/787.f922da90.chunk.js": "/static/js/787.f922da90.chunk.js",
+    "static/media/schedule.png": "/static/media/schedule.fe63ed11286fbaa07962.png",
+    "static/media/esteem.png": "/static/media/esteem.9d829d0e06cb235d4710.png",
+    "index.html": "/index.html",
+    "main.ab0b0c7b.js.map": "/static/js/main.ab0b0c7b.js.map",
+    "787.f922da90.chunk.js.map": "/static/js/787.f922da90.chunk.js.map"
   },
   "entrypoints": [
-    "static/js/main.afe27807.js"
+    "static/js/main.ab0b0c7b.js"
   ]
 }
